@@ -1,0 +1,47 @@
+/*Global Styling*/
+.appBorder{
+	margin: 20px 60px 20px 100px;
+}
+
+h1{
+	color:red;
+    display:inline;
+    font-family: Yu Gothic UI Light;
+    font-size:4em;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover{
+     text-decoration: none;
+}
+
+h2{
+    display:inline;
+    font-family: Yu Gothic UI Light;
+    font-size:1.5em;
+}
+
+h5{
+    font-family: Yu Gothic UI Light;
+    font-size:1.5em;
+}
+h3{
+    font-family: Yu Gothic UI Light;
+    padding-left: 30px;
+}
+
+#Banner{
+	margin-bottom:40px;
+}
+
+#view1Time{
+        margin-left:80px;
+}
+ #loadError{
+	 color: red;
+	 text-align:center;
+	 
+ }
